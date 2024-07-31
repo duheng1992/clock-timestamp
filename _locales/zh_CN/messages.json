@@ -1,0 +1,68 @@
+{
+  "Title": {
+    "message": "时间戳转换-时区时钟"
+  },
+  "Description": {
+    "message": "不同时区的时间戳与时间的转换工具"
+  },
+  "week_day_1": {
+    "message": "星期一"
+  },
+  "week_day_2": {
+    "message": "星期二"
+  },
+  "week_day_3": {
+    "message": "星期三"
+  },
+  "week_day_4": {
+    "message": "星期四"
+  },
+  "week_day_5": {
+    "message": "星期五"
+  },
+  "week_day_6": {
+    "message": "星期六"
+  },
+  "week_day_7": {
+    "message": "星期日"
+  },
+  "select_zone": {
+    "message": "选择你的时区"
+  },
+  "zone": {
+    "message": "时区"
+  },
+  "select_timestamp_type": {
+    "message": "选择时间戳格式"
+  },
+  "second": {
+    "message": "秒(s)"
+  },
+  "millsecond": {
+    "message": "秒(s)"
+  },
+  "timestamp_type": {
+    "message": "时间戳格式"
+  },
+  "timestamp_2_time": {
+    "message": "时间戳转时间"
+  },
+  "current": {
+    "message": "当前时间戳"
+  },
+  "timestamp": {
+    "message": "时间戳"
+  },
+  "convert": {
+    "message": "转换"
+  },
+  "result": {
+    "message": "结果"
+  },
+  "time_2_timestamp": {
+    "message": "时间转时间戳"
+  },
+  "time": {
+    "message": "时间"
+  }
+}

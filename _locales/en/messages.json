@@ -1,0 +1,68 @@
+{
+  "Title": {
+    "message": "TimeSync - Zone Clock Converter"
+  },
+  "Description": {
+    "message": "A versatile timestamp conversion tool for different time zones."
+  },
+  "week_day_1": {
+    "message": "Mon."
+  },
+  "week_day_2": {
+    "message": "Tue."
+  },
+  "week_day_3": {
+    "message": "Wed."
+  },
+  "week_day_4": {
+    "message": "Thu."
+  },
+  "week_day_5": {
+    "message": "Fri."
+  },
+  "week_day_6": {
+    "message": "Sat."
+  },
+  "week_day_7": {
+    "message": "Sun."
+  },
+  "select_zone": {
+    "message": "Select Time Zone"
+  },
+  "zone": {
+    "message": "Time Zone"
+  },
+  "select_timestamp_type": {
+    "message": "Select Timestamp Type"
+  },
+  "second": {
+    "message": "s"
+  },
+  "millsecond": {
+    "message": "ms"
+  },
+  "timestamp_type": {
+    "message": "Timestamp Type"
+  },
+  "timestamp_2_time": {
+    "message": "Timestamp to Time"
+  },
+  "current": {
+    "message": "Current"
+  },
+  "timestamp": {
+    "message": "Timestamp"
+  },
+  "convert": {
+    "message": "Go"
+  },
+  "result": {
+    "message": "Result"
+  },
+  "time_2_timestamp": {
+    "message": "Time to Timestamp"
+  },
+  "time": {
+    "message": "Time"
+  }
+}
