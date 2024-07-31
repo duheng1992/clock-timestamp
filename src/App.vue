@@ -156,18 +156,21 @@ window.onload = function () {
   });
 
   initNumXY(150, 110, 55, 55);
-  startClock();
 
 
   getStorage(item => {
     const timezoneStore = item[`clock-timestamp-default`];
     if (timezoneStore) {
       document.querySelector('#js_timezone').value = timezoneStore;
+      startClock();
+
       return;
     }
     const timeZone = Intl.DateTimeFormat().resolvedOptions().timeZone;
     document.querySelector('#js_timezone').value = timeZone;
+    startClock();
   })
+
 }
 
 window.onunload = function () {
