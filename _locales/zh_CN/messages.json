@@ -39,7 +39,7 @@
     "message": "秒(s)"
   },
   "millsecond": {
-    "message": "秒(s)"
+    "message": "毫秒(s)"
   },
   "timestamp_type": {
     "message": "时间戳格式"

@@ -769,13 +769,14 @@ function initNumXY(R, r, w, h) {
 body {
   margin: 0;
   padding: 24px;
+  padding-left: 12px;
   font-size: 16px;
 }
 
 main {
   display: flex;
   align-items: center;
-  gap: 24px;
+  gap: 12px;
   flex-wrap: nowrap;
 }
 
